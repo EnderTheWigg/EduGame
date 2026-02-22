@@ -1,4 +1,0 @@
-if (!thrown)
-{
-    charging = true;
-}
